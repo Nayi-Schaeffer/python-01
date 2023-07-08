@@ -9,6 +9,8 @@ for elem in some_list:
 
 numbers = [1,2,3,4,5,6,7,8,9,10]
 
-for index in range(len(numbers)):
+#Si queremos multiplicar cada elemento de la lista x2 debemos utilizar tambien los índices 
+
+for index in range(len(numbers)):#index es la posicion de los números
     numbers[index] = numbers[index] *2
 print(numbers)
