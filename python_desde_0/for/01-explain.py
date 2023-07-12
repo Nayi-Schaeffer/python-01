@@ -1,4 +1,4 @@
-# 
+# Podemos utilizar el for para recorrer cada letra de un texto y realizar alguna evaluación condicional por cada letra.
 
 some_text = "Hola inmundo"
 
@@ -12,5 +12,6 @@ for letter in some_text:
     else:
         word_one += letter
 print(word_one)
+
 
 

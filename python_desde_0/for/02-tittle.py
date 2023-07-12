@@ -2,7 +2,7 @@
 
 some_text = "hola inmundo"
 
-
+#Acumulador
 word_one = ""
 
 for letter in some_text:
