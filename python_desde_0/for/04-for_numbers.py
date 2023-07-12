@@ -6,3 +6,5 @@ for num in range(1,11):
         row += str(digit)
     print(row)
 
+
+
